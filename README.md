@@ -8,7 +8,8 @@
 ***
 ## Results
 ### Trandfer Learning
-![Training]()
+![Training](image/acc_curve.png)
+![Training](image/loss_curve.png)
 ## Data
 
 [dataset from Kaggle](https://www.kaggle.com/datasets/grassknoted/asl-alphabet/)
