@@ -2,10 +2,7 @@
 ## CV for American Sign Language
 ###### Authors: Tingting Fang, Yilin Hou
 ## Models
-### CNN
-***
-### Transfer Learning
-***
+![Training](image/Structure.jpg)
 ## Results
 ### Trandfer Learning
 * Loss curve for Trainng
@@ -36,6 +33,8 @@
   The dataset dataset consists of 87,000 images, each sized at 200x200 pixels. It encompasses 29 classes, including 26 classes for the letters A-Z, along with 3 additional classes designated for SPACE, DELETE, and NOTHING. 
 ## References
 
-He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep residual learning for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770-778).
-
-Szegedy, C., Vanhoucke, V., Ioffe, S., Shlens, J., & Wojna, Z. (2016). Rethinking the inception architecture for computer vision. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 2818-2826).
+* B. Alsharif, A. S. Altaher, A. Altaher, M. Ilyas, and E. Alalwany, “Deep learning technology to recognize american sign language alphabet,” vol. 23, no. 18, p. 7970, 2023.
+* Y. Ma, T. Xu, and K. Kim, “Two-stream mixed convolutional neural network for American sign language recognition,” vol. 22, no. 16, p. 5959, 2022.
+* He, K., Zhang, X., Ren, S., \& Sun, J. (2016). Deep residual learning for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770-778).
+* Szegedy, C., Vanhoucke, V., Ioffe, S., Shlens, J., \& Wojna, Z. (2016). Rethinking the inception architecture for computer vision. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 2818-2826).
+* Krizhevsky, A., Sutskever, I., \& Hinton, G. E. (2012). Imagenet classification with deep convolutional neural networks. Advances in neural information processing systems, 25.
