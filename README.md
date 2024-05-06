@@ -7,6 +7,8 @@
 ### Transfer Learning
 ***
 ## Results
+### Trandfer Learning
+![Training]()
 ## Data
 
 [dataset from Kaggle](https://www.kaggle.com/datasets/grassknoted/asl-alphabet/)
