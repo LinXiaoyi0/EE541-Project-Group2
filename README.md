@@ -8,8 +8,25 @@
 ***
 ## Results
 ### Trandfer Learning
-![Training](image/acc_curve.png)
+* Loss curve for Trainng
 ![Training](image/loss_curve.png)
+* Accuracy curve for Trainng
+![Training](image/acc_curve.png)
+* Results on testing set
+
+|           | AlexNet  | ResNet18   | ResNet34  | ResNet50  | InceptionV3|
+|-----------|----------|------------|-----------|-----------|------------|
+|Image Size |224 * 224 | &224 * 224 |	224 * 224 |	224 * 224 | 200 * 200  |
+|Loss       |0.4185	   |0.1398	    |0.0577	    |0.1143	    |0.0565	     | 
+|Accuracy   |88.023%   |95.690%     |98.345%    |97.621%	  |98.414%	   | 
+
+* Results on real-senarios
+
+|           | ResNet18   | ResNet34  | ResNet50  | InceptionV3|
+|-----------|------------|-----------|-----------|------------|
+|Image Size | &224 * 224 |	224 * 224 |	224 * 224 | 200 * 200  |
+|Loss       |0.8208	     |0.7660      |0.8655	    |1.3397	     | 
+|Accuracy   |76.687%     |80.368%     |76.074%	  |84.663%     |
 ## Data
 
 [dataset from Kaggle](https://www.kaggle.com/datasets/grassknoted/asl-alphabet/)
