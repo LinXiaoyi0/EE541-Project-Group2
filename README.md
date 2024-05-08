@@ -3,6 +3,12 @@
 ###### Authors: Tingting Fang, Yilin Hou
 ## Models
 ![Training](image/Structure.jpg)
+## Structure
+`Data`: The dataset of American sign language letters in real scenes that we made, includes 29 classes with 6 images per class.
+`transfer learning`: Jupiter Notebook for data preprocessing and training transfer learning models.
+`CNN`: Jupiter Notebook for data preprocessing and training CNN.
+`model`: Trained models.
+`image`: Images for `README.md`.
 ## Results
 ### Trandfer Learning
 * Loss curve for Trainng
